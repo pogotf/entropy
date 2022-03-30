@@ -5,11 +5,11 @@
 		"Main-justincase"												"80 175 115 255"
 		"Low"												"225 75 75 255"
 
-		"Orange"											"80 175 115 255"
-		"OrangeDim"											"80 175 115 255"
-		"LightOrange"										"80 175 115 255"
+		"Orange"											"159 186 213 255"
+		"OrangeDim"											"159 186 213 255"
+		"LightOrange"										"159 186 213 255"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"80 175 115 255"
+		"TFOrange"											"159 186 213 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
