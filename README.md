@@ -9,7 +9,7 @@ menu layout (got rid of a few buttons and moved them around)
 complete color overhaul (backpack, overheal, low hp/ammo)  
 
 to-do:  
-idk yet i'll figure it out when i get annoyed by something
+maybe the little win panel thing comes back  
 
 *known performance impact
 
