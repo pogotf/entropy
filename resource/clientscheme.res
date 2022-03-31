@@ -176,19 +176,19 @@
 
 		"SaleGreen"											"76 107 34 255"
 
-		"LightRed"											"80 175 115 255"
-		"LighterRed"										"80 175 115 255"
+		"LightRed"											"117 163 209 255"
+		"LighterRed"										"117 163 209 255"
 		"LighterDarkBrown"									"60 60 60 255"
 		"DarkBrown"											"30 30 30 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"60 60 60 255"
 		"UpgradeArmedFg"									"225 220 220 255"
-		"UpgradeArmedBg"									"80 175 115 255"
+		"UpgradeArmedBg"									"117 163 209 255"
 		"UpgradeDepressedFg"								"60 60 60 255"
-		"UpgradeDepressedBg"								"80 175 115 255"
+		"UpgradeDepressedBg"								"117 163 209 255"
 		"UpgradeSelectedFg"									"60 60 60 255"
-		"UpgradeSelectedBg"									"80 175 115 255"
+		"UpgradeSelectedBg"									"117 163 209 255"
 		"UpgradeDisabledFg"									"60 60 60 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}
