@@ -146,6 +146,8 @@
 				"ControlName"						"EditablePanel"
 				"fieldName"							"HealthIcon"
 				"xpos"								"9999"
+				"visible"							"0"
+				"enabled"							"0"
 			}
 			"ReadyBG"
 			{
