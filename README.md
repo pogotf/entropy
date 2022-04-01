@@ -9,6 +9,7 @@ changelog:
 main menu background (go mclaren)  
 menu layout (got rid of a few buttons and moved them around)  
 complete color overhaul (backpack, overheal, low hp/ammo)  
+fps increases including match hud fix  
 
 to-do:  
 maybe the little win panel thing comes back  
