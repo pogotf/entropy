@@ -46,5 +46,6 @@
 	{
 		"label"									"quit"
 		"command"								"engine replay_confirmquit"
+		"OnlyAtMenu"							"1"
 	}
 }
